@@ -4,7 +4,8 @@ module.exports = {
         "es2021": true
     },
     "extends": [
-        "google"
+        "google",
+        "prettier",
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
